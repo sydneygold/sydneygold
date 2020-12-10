@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**sydneygold/sydneygold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hey! My name is Sydney and I'm a fullstack software developer with a preference for frontend development and a passion for innovative and responsive design. 
+
+- 🌱 I’m currently learning Flutter, React Native, Typescript.
+- 🔭 I’m currently working on creating a mobile app in Flutter called TherapySwipe! More on that soon.
+- 😀 I like to play video games, make digital art, read, and make coffee/tea recipes in my free time.
+- 💬 Ask me about the third wave coffee industry. Or anything about tea. I can talk about it for hours.
+- ⚡ Fun fact: I've designed tattoos, prints, and used to pursue competitive barista-ing!
+
+[![Sydney's Github Stats](https://github-readme-stats.vercel.app/api?username=sydneygold&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+⭐️ Credit for the Github template [elangosundar](https://github.com/elangosundar/awesome-README-templates).
