@@ -1,6 +1,6 @@
 
 
-
+![banner](https://pbs.twimg.com/media/Eo4jA5iXUAMExOE?format=jpg&name=large)
 
 Hey! My name is Sydney and I'm a fullstack software developer with a preference for frontend development and a passion for innovative and responsive design. 
 
