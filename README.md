@@ -1,4 +1,4 @@
-![github banner](https://pbs.twimg.com/media/Eq1MYTEVEAAI6_z?format=jpg&name=medium)
+![github banner](https://pbs.twimg.com/media/Eq1icFsUYAADLGW?format=jpg&name=4096x4096)
 
 
 Hey! My name is Sydney and I'm a fullstack software developer with a preference for frontend development and a passion for innovative and responsive design. 
