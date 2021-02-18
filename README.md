@@ -13,7 +13,7 @@ Hey! My name is Sydney and I'm a fullstack software developer with a preference 
 - 🔭 My most recent project is a mobile app in Flutter called Kettle Whistle! An app for coffee and tea recipes I used to test my skills in Flutter.
   | [Frontend repo](https://github.com/sydneygold/kettle_whistle_fe) | [Backend repo](https://github.com/sydneygold/kettle-whistle-be) |
 - 💬 Ask me about the third wave coffee industry. Or anything about tea. I can talk about it for hours.
-- ⚡ I've designed tattoos, prints, and used to pursue competitive barista-ing! (It's a thing, look it up)
+- ⚡ I've designed tattoos, prints, and used to pursue competitive barista-ing! (It's a thing, look it up it's awesome)
 
 
 [![Sydney's Github Stats](https://github-readme-stats.vercel.app/api?username=sydneygold&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
