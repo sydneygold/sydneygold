@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/sydney-goldberg-32b9751b0/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 </p>
-Hey! My name is Sydney and I'm a fullstack software developer with a preference for frontend development and a passion for innovative and responsive design. I'm from Dallas, TX moved transplanted to Denver, CO to escape the summer heat and some of my hobbies are making digital art, reading comics, playing video games, and working on getting my low elevation lungs up to par on nature hikes. I'd love to connect!   
+Hey! My name is Verance and I'm a fullstack software developer with a preference for frontend development and a passion for innovative and responsive design. I'm from Dallas, TX moved transplanted to Denver, CO to escape the summer heat and some of my hobbies are making digital art, reading comics, playing video games, and working on getting my low elevation lungs up to par on nature hikes. I'd love to connect!   
 
 ## some fun facts!
 - 🌱 I’m currently learning Flutter, React Native, and Typescript.
